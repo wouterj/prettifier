@@ -24,6 +24,8 @@ Name                  Color   Styles
 ====                  =====   ======
 string                green   
 keyword               orange  
+variable              white
+function              white
 comment               pink    italic
 type                  orange  
 literal               blue    
