@@ -9,8 +9,8 @@ Color name   HEX value  RGB value
 
 black        #232125    35,  33,  37
 grey         #999999    153, 153, 153
-medium grey  #ececec    236, 236, 236
-light grey   #aaaaaa    170, 170, 170
+light grey   #ececec    236, 236, 236
+medium grey  #aaaaaa    170, 170, 170
 white        #ffffff    255, 255, 255
 orange       #ff8400    255, 132, 0
 green        #59db3a    86,  219, 58
